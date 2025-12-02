@@ -1,4 +1,5 @@
-# When Marcus launched his ride-hailing platform in Toronto, Canada, he thought commission fees from drivers would be 
+<img width="2624" height="1632" alt="Gemini_Generated_Image_vog5gdvog5gdvog5" src="https://github.com/user-attachments/assets/5f150a8d-7d10-4192-b1f0-b642ec836248" />
+ When Marcus launched his ride-hailing platform in Toronto, Canada, he thought commission fees from drivers would be 
 his only income source. Six months later, his revenue had diversified into seven different streams, and his business was scaling faster than he'd imagined. The secret? Understanding that a successful Uber clone app isn't just about connecting riders with drivers, it's about creating a multifaceted revenue ecosystem.
 
 ## What is an Uber Clone?
